@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Dec 11 19:00:59 2025
+# Process ID: 30451
+# Current directory: /home/IT.ACADEMY/student/plis/project_1/project_1.runs/synth_1
+# Command line: vivado -log led_latch.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_latch.tcl
+# Log file: /home/IT.ACADEMY/student/plis/project_1/project_1.runs/synth_1/led_latch.vds
+# Journal file: /home/IT.ACADEMY/student/plis/project_1/project_1.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source led_latch.tcl -notrace
